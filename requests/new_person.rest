@@ -1,7 +1,7 @@
-POST http://localhost:3001/api/persons
+POST https://fs-puhelinmuistio.herokuapp.com/api/persons
 content-type: application/json
 
 {
-    "name": "Jukka Hietanen",
+    "name": "",
     "number": "045-1234566"
 }

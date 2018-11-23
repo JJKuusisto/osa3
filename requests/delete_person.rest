@@ -1,1 +1,1 @@
-DELETE http://localhost:3001/api/persons/3797440915
+DELETE https://fs-puhelinmuistio.herokuapp.com/api/persons/8
